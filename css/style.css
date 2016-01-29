@@ -8,7 +8,8 @@ div{
 }
 .azul{
 	background: #2E64FE;
-	position: static;
+	position: relative;
+	left: 200px;
 
 }
 .rosa{
