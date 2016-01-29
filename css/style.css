@@ -1,0 +1,18 @@
+div{
+	width: 200px;
+	height: 200px;
+}
+.amarillo{
+	background: yellow;
+	position: static;
+}
+.azul{
+	background: #2E64FE;
+	position: static;
+
+}
+.rosa{
+	background: #F781D8;
+	position: static; 
+}
+
