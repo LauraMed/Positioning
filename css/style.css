@@ -4,15 +4,26 @@ div{
 }
 .amarillo{
 	background: yellow;
-	position: static;
+	position: absolute;
+	left: 0;
+	top: 0;
 }
 .azul{
 	background: #2E64FE;
-	position: relative;
-	left: 200px;
+	position: absolute;
+	right: 0;
+	top: 0;
 }
 .rosa{
 	background: #F781D8;
-	position: static; 
+	position: absolute;
+	left: 0;
+	bottom: 0; 
+}
+.verde{
+	background: green;
+	position: absolute;
+	right: 0;
+	bottom: 0; 
 }
 
